@@ -1,0 +1,2 @@
+# Shadowrocket-ADS
+block Ads 
